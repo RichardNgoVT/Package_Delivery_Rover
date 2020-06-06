@@ -2,6 +2,7 @@
 Implementation of rover simulation and navigation
 
 Rover Navigation Demonstrations: Rover_Demo.mp4, RoverSim_Demo.mp4
+
 Rover Presentation: Rover_Slides.mp4
 Environment Simulator: roverSimulation.py
 PI controller tuner: PISetter.py
